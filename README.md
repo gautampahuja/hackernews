@@ -1,22 +1,3 @@
-What we request is to write make hackernews beautiful. Really beautiful.
-
-● You can fetch the HN data from the API and use SASS, LESS, Stylus or
-whatever, the important thing is that the code is clean, consistent and crystal
-clear.
-● The website needs to be implemented using JS framework of your choice (React is
-preferred but you can use any other framework of your choice)
-● code block below
-
-What are we going to look for?
-* Clear, concise, DRY implementation
-* Appropriate naming conventions
-* Automated tests on your frontend.
-* We are **not** going to check the submitted script for syntax errors:
-* Please use gitrepo to submit your coding challenge.
-* We know that there are multiple online solutions already available but we would prefer to see
-your approach on this and how you usually plan and do your work on a real world project.
-
-
 
 Steps to run
 
